@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lil-kaktus
 - 👀 I’m interested in coding, not touching grass
-- 🌱 I’m currently learning node.js express.js
+- 🌱 I’m currently learning node.js express.js, soon react and next
 - ⚡ Fun fact: coding is fun
 
 <!---
